@@ -2,13 +2,13 @@
   "name": "astro-security",
   "version": "1.0.0",
   "description": "RFC 9116 security.txt generation for Astro sites at build time",
-  "homepage": "https://velohost.co.uk/plugins/astro-security/",
+  "homepage": "https://github.com/frontlanestudio/astro-security",
   "repository": {
     "type": "git",
-    "url": "https://github.com/velohost/astro-security.git"
+    "url": "git+https://github.com/frontlanestudio/astro-security.git"
   },
   "bugs": {
-    "url": "https://github.com/velohost/astro-security/issues"
+    "url": "https://github.com/frontlanestudio/astro-security/issues"
   },
   "license": "MIT",
   "type": "module",
